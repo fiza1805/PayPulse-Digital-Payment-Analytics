@@ -2,6 +2,11 @@
 
 An interactive data analytics dashboard built using Python, SQL, Pandas, Streamlit, and Plotly to explore India's digital payment trends using the publicly available PhonePe Pulse dataset.
 
+### 🌐 Live Dashboard
+
+**[Click here to explore the PayPulse Interactive Dashboard](https://paypulse-analytics.streamlit.app)**
+
+Explore India's digital payment trends through interactive charts, state-level comparisons, transaction KPIs, and quarterly growth analysis.
 ## Project Overview
 
 PayPulse analyzes aggregated transaction statistics across Indian states and union territories, helping users explore transaction volumes, monetary values, quarterly growth, and geographic trends.
