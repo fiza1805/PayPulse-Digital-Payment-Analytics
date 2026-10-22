@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Credentials
+.streamlit/secrets.toml
+
+# Local files
+*.log
+.DS_Store
+
+# Downloaded source dataset
+pulse-main/
