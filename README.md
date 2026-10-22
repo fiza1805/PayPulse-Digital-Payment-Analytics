@@ -93,3 +93,7 @@ The dataset contains aggregated transaction statistics rather than individual tr
 ## Project Purpose
 
 PayPulse demonstrates practical skills in data extraction, cleaning, SQL analytics, data validation, interactive visualization, and communicating business insights.
+
+## Author
+## Sumaiya
+B.Tech - Computer Science & Engineering (AI & Data Science)
